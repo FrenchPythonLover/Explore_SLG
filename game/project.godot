@@ -11,12 +11,17 @@ config_version=4
 [application]
 
 config/name="SLGGame"
-run/main_scene="res://scenes/Intro.tscn"
+run/main_scene="res://scenes/menus/principal.tscn"
 config/icon="res://icon.png"
+
+[global]
+
+font=false
 
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
+theme/custom_font="res://fonts/Roboto.tres"
 
 [physics]
 
