@@ -1,4 +1,4 @@
-## Stade actuel: PROTOTYPAGE ❗
+## Stade actuel: NON FONCTIONNEL: PROTOTYPAGE DU MENU PRINCIPAL ET DE LA STRUCTURE [ici](https://exploreslg.netlify.app)
 # Saint-Louis de Gonzague Perpignan - 3D Recreation
 Projet open-source de reproduction 3D réaliste et explorable de l'établissement.  
 Fait avec le Godot Engine.  
